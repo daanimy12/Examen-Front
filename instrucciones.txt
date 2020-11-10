@@ -1,0 +1,9 @@
+Hola bienvenido
+!pasos para ejecutar aplicacion web!
+
+intrucciones:
+ paso 1:
+Mediante el comando "cd react-examen"se cargarán los archivos del proyecto.
+paso 2:
+Y una vez dentro hacer que comience la magia con el comando:
+unpm start"
